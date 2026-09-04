@@ -4,7 +4,6 @@
 <head>
     <meta charset="UTF-8">
     <title>Portal de Tecnologia</title>
-    <img src="imagem2.jpg" alt="Mesa de trabalho">
 
     <style>
     
@@ -253,12 +252,14 @@ main{
 <body>
 <!-- Estrutura HTML -->
 <div class="banner-container">
-  <img src="home-office-scaled-1.jpg" alt="computador" class="banner-image">
+    
 </div>
 <?php
 include 'header2.php';
 ?>
-<main></main>
+<main>
+     <img src="home-office-scaled-1.jpg" alt="computador" class="banner-image">
+</main>
 <?php
 include 'barraLateral2.php';
 include 'footer.php';

@@ -5,7 +5,8 @@
     <title>Artigo - Tecnologia e Programação</title>
     <link rel="stylesheet" href="css/style.css">
 </head>
-<body>
+<body> 
+ 
     <header class="main-header">
         <div class="logo-area"></div>
         <nav class="nav-menu">
@@ -23,3 +24,4 @@
             </ul>
         </nav>
     </header>
+    <!-- este  é um comentario 
